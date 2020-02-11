@@ -7,7 +7,7 @@ The data are a scaled down version of the full database generously donated by an
 telephone company.There are still 71,047 customers the database, and 75 potential predictors.
 
 ## Implementation
-###Understanding problem 
+### Understanding the problem statement 
 Firstly we understand the problem statement and the data dictionary (i.e. what each variable means) 
 and what is the question we are trying to answer. 
 
